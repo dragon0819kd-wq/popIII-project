@@ -1,0 +1,10 @@
+regime,degree,k,a_k
+low M le 200,3,0,9.795389577
+low M le 200,3,1,-4.0394769692
+low M le 200,3,2,1.6641602279
+low M le 200,3,3,-0.24089514538
+replenishment 250 700,2,0,7.4562617061
+replenishment 250 700,2,1,-0.76346520167
+replenishment 250 700,2,2,0.12222644947
+plateau M ge 800,1,0,6.8700826895
+plateau M ge 800,1,1,-0.20776975441
